@@ -1,1 +1,1 @@
-ssm+tomcat+Servlet+musql
+ssm+tomcat+Servlet+mysql
